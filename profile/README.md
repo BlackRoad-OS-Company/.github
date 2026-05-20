@@ -1,12 +1,27 @@
-# BlackRoad / Company
+# BlackRoad-OS-Company
 
-> **Remember the Road. Pave Tomorrow.**
+BlackRoad OS organization workbench.
 
-Public face of BlackRoad — marketing site, press, and brand assets.
+This org is part of the BlackRoad OS canon structure:
 
-**This org owns**
-- `blackroad.io` homepage and marketing surfaces
-- Brand assets, press kits, and public copy
-- The "front door" anyone visits before they sign in
+- 1 operator
+- 27 agents
+- 27 products
+- 20 root domains
+- 20 active GitHub orgs
 
-[blackroad.io](https://blackroad.io)
+Status:
+Initialized organization profile and default community files.
+
+Honesty note:
+Repos in this org may be initialized shells. Do not treat them as implemented products unless their README, tests, deployment notes, and receipts prove it.
+
+Rules:
+- Do not commit secrets.
+- Keep main clean.
+- Use blackroad-lab for experiments.
+- Write receipts for meaningful changes.
+- Mark unfinished work honestly: MOCK, PARTIAL, UNKNOWN, or REAL.
+
+Tagline:
+Remember the Road. Pave Tomorrow.
